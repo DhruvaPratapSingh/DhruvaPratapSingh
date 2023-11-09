@@ -29,4 +29,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruvapratapsingh&show_icons=true&locale=en" alt="dhruvapratapsingh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvapratapsingh&" alt="dhruvapratapsingh" /></p>
+
 [![An image of @deepaksingh06's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/deepaksingh06)](https://holopin.io/@deepaksingh06)
