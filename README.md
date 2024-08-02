@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruvapratapsingh" alt="dhruvapratapsingh" /></a> </p>
 
-- 🔭 I’m currently working on **@bharat intern**
+- 🔭 I have done intern at **@bharat intern** and **Oasis Infobyte**
 
 - 🌱 I’m currently learning **Webspace and react**
 
