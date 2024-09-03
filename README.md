@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dhruva Thakur</h1>
+<h1 align="center">Hi https://dhruv-codes.vercel.app/_next/static/media/waving-hand.1da6fc7a.gif, I'm Dhruva Thakur</h1>
 <h3 align="center">A passionate fullstack web developer from India</h3>
 
 
