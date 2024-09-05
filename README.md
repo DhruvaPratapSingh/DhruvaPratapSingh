@@ -36,6 +36,7 @@
 
 
 ![Screenshot 2024-08-08 191833](https://github.com/user-attachments/assets/55d3f2ff-d04a-4869-96f6-aa3678c726f8)
+<br/>
 <img src="https://github.com/user-attachments/assets/4d4a9778-043f-4378-a236-bbb3f67d7b1d" alt="codechef gold badge" width="200" height="200"/>
 <img src="https://github.com/user-attachments/assets/2f3e7bc0-e5b7-40b7-a8d6-bfdd52eb2df4" alt="codechef badge" width="200" height="200"/>
 <img src="https://github.com/user-attachments/assets/3a52195d-acb4-42bb-9c4b-5305cdbbdb5f" alt="codechef badge" width="200" height="200"/>
