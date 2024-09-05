@@ -36,5 +36,12 @@
 
 
 ![Screenshot 2024-08-08 191833](https://github.com/user-attachments/assets/55d3f2ff-d04a-4869-96f6-aa3678c726f8)
+![CodeChefBadge](https://github.com/user-attachments/assets/4d4a9778-043f-4378-a236-bbb3f67d7b1d)
+![CodeChefBadge (1)](https://github.com/user-attachments/assets/2f3e7bc0-e5b7-40b7-a8d6-bfdd52eb2df4)
+![CodeChefBadge (3)](https://github.com/user-attachments/assets/3a52195d-acb4-42bb-9c4b-5305cdbbdb5f)
+![CodeChefBadge (2)](https://github.com/user-attachments/assets/ceb6ba54-233b-4d1a-bac4-ed7724400cdc)
+
+
+
 
 
