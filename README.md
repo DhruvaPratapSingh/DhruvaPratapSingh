@@ -36,10 +36,9 @@
 
 
 ![Screenshot 2024-08-08 191833](https://github.com/user-attachments/assets/55d3f2ff-d04a-4869-96f6-aa3678c726f8)
-![CodeChefBadge](https://github.com/user-attachments/assets/4d4a9778-043f-4378-a236-bbb3f67d7b1d)
-![CodeChefBadge (1)](https://github.com/user-attachments/assets/2f3e7bc0-e5b7-40b7-a8d6-bfdd52eb2df4)
-![CodeChefBadge (3)](https://github.com/user-attachments/assets/3a52195d-acb4-42bb-9c4b-5305cdbbdb5f)
-![CodeChefBadge (2)](https://github.com/user-attachments/assets/ceb6ba54-233b-4d1a-bac4-ed7724400cdc)
+<img src="https://github.com/user-attachments/assets/4d4a9778-043f-4378-a236-bbb3f67d7b1d" alt="codechef gold badge" width="200" height="200"/>
+<img src="https://github.com/user-attachments/assets/2f3e7bc0-e5b7-40b7-a8d6-bfdd52eb2df4" alt="codechef badge" width="200" height="200"/>
+<img src="https://github.com/user-attachments/assets/3a52195d-acb4-42bb-9c4b-5305cdbbdb5f" alt="codechef badge" width="200" height="200"/>
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/128789248/364882946-ceb6ba54-233b-4d1a-bac4-ed7724400cdc.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240905%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240905T172434Z&X-Amz-Expires=300&X-Amz-Signature=eb83feae2db84ec6b37e0702b89f2a9ffb29c54fd85cdb7fd1f15a292e17573b&X-Amz-SignedHeaders=host&actor_id=128789248&key_id=0&repo_id=716619942" alt="photoshop" width="200" height="200"/>
 
 
