@@ -63,6 +63,7 @@ I'm a passionate **full-stack developer** with a strong focus on **ReactJS** and
   <a href="https://www.instagram.com/dhruva_thakur_06/?next=%2Fdhruva_pratap_singh%2F" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
+  <a href="https://discord.gg/E8GdFBjz" target="blank"><img align="center" src="https://th.bing.com/th/id/R.d041ab29647370219642abc5ae339b29?rik=OCBbHHD0HABp5w&riu=http%3a%2f%2fgeeknewscentral.com%2fwp-content%2fuploads%2f2017%2f08%2fDiscord-logo-300x300.jpg&ehk=hq2P3AWlkBXfsBHomv54t88%2fv%2fKb2%2fg1fnDZEO935sM%3d&risl=&pid=ImgRaw&r=0" alt="dhruva_pratap_singh" height="30" width="40" /></a>
 </p>
 
 
@@ -85,15 +86,6 @@ I'm a passionate **full-stack developer** with a strong focus on **ReactJS** and
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-00A400?style=for-the-badge&logo=openai&logoColor=white)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/dhruva pratap singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruva pratap singh" height="30" width="40" /></a>
-<a href="https://fb.com/dhruva pratap singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dhruva pratap singh" height="30" width="40" /></a>
-<a href="https://instagram.com/dhruva_pratap_singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhruva_pratap_singh" height="30" width="40" /></a>
-</p>
-<a href="https://discord.gg/E8GdFBjz" target="blank"><img align="center" src="https://th.bing.com/th/id/R.d041ab29647370219642abc5ae339b29?rik=OCBbHHD0HABp5w&riu=http%3a%2f%2fgeeknewscentral.com%2fwp-content%2fuploads%2f2017%2f08%2fDiscord-logo-300x300.jpg&ehk=hq2P3AWlkBXfsBHomv54t88%2fv%2fKb2%2fg1fnDZEO935sM%3d&risl=&pid=ImgRaw&r=0" alt="dhruva_pratap_singh" height="30" width="40" /></a>
-</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
