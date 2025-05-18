@@ -105,6 +105,8 @@ I'm a passionate **full-stack developer** with a strong focus on **ReactJS** and
 
 <br/>
 
+[![An image of @deepaksingh06's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/deepaksingh06)](https://holopin.io/@deepaksingh06)
+
 ![Screenshot 2024-08-08 191833](https://github.com/user-attachments/assets/55d3f2ff-d04a-4869-96f6-aa3678c726f8)
 
 
