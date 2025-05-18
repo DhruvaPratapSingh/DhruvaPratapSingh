@@ -1,20 +1,90 @@
-<h1 align="center">Hi 👋, I'm Dhruva Thakur</h1>
-<h3 align="center">A passionate fullstack web developer from India</h3>
+## 👋 Hi, I'm Dhruva Pratap Singh! 
 
 
-[![An image of @deepaksingh06's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/deepaksingh06)](https://holopin.io/@deepaksingh06)
+<!--
+Feel free to connect with me or check out my projects! 
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+  <a href="https://wa.me/918957818597?text=Hey%20%F0%9F%91%8B%2C%20how%20can%20I%20help%20you%3F">
+    <img src="https://img.shields.io/badge/WhatsApp-Click%20Me-25D366?style=for-the-badge&logo=whatsapp" alt="WhatsApp" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/gyan-pratap-singh-4549471b1/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn" />
+  </a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvapratapsingh&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvapratapsingh" /> </p>
+  <img src="https://komarev.com/ghpvc/?username=gyanthakur&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
+</div>
+-->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruvapratapsingh" alt="dhruvapratapsingh" /></a> </p>
 
-- 🔭 I have done intern at **@bharat intern** and **Oasis Infobyte**
+I'm a passionate **full-stack developer** with a strong focus on **ReactJS** and the **MERN stack**. Currently pursuing a **Bachelor's in Information Technology** at Harcourt Butler Technical University [HBTU Kanpur], I enjoy building innovative solutions, optimizing code, and constantly learning new technologies.
 
-- 🌱 I’m currently learning **Webspace and react**
 
-- 💬 Ask me about **react node express postman**
+<div align="center">
 
-- 📫 How to reach me **ds8987765@gmail.com**
+ <a href="https://www.linkedin.com/in/dhruva-pratap-singh-b9a913257/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn" />
+</a>
+
+<br/>
+
+  <img src="https://komarev.com/ghpvc/?username=dhruvapratapsingh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
+  <br/>
+
+
+  <br/>
+
+
+
+[![Dhruva Pratap Singh](https://awesome-github-stats.azurewebsites.net/user-stats/dhruvapratapsingh?cardType=level-alternate&theme=jolly&preferLogin=true)](https://git.io/awesome-stats-card)
+
+</div>
+
+### 🌱 What I'm Working On:
+- Enhancing my skills in **Next.js**, **React.js**, **Vite**, **TailwindCSS**, and **Material UI**, **Aceternity UI**.
+- Building and optimizing web apps with **MongoDB**.
+
+### 💡 Interests:
+- Problem-solving and algorithmic challenges.
+- Creating responsive, dynamic UIs with an emphasis on user experience.
+- API development and integration with tools like **Postman**.
+
+### 🛠️ Tech Stack:
+- Frontend: **ReactJS**, **Next.js**, **HTML**, **CSS3**, **JavaScript**.
+- Backend: **Node.js**, **Express**, **MongoDB**.
+- Tools: **Git**, **GitHub**, **Postman**, **Clerk**, **Postman**,**Visual Studio Code**.
+
+  ### Connect with me:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/dhruva-pratap-singh-b9a913257" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/dhruva_thakur_06/?next=%2Fdhruva_pratap_singh%2F" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+
+
+
+### 🛠️ Skills
+
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B400?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-F34B7D?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-00A400?style=for-the-badge&logo=openai&logoColor=white)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
