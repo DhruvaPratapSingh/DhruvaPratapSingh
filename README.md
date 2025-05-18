@@ -36,7 +36,7 @@ I'm a passionate **full-stack developer** with a strong focus on **ReactJS** and
 
 
 
-[![Dhruva Pratap Singh](https://awesome-github-stats.azurewebsites.net/user-stats/dhruvapratapsingh?cardType=level-alternate&theme=jolly&preferLogin=true)](https://git.io/awesome-stats-card)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruvapratapsingh&show_icons=true&locale=en" alt="dhruvapratapsingh" /></p>
 
 </div>
 
@@ -95,7 +95,7 @@ I'm a passionate **full-stack developer** with a strong focus on **ReactJS** and
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvapratapsingh&show_icons=true&locale=en&layout=compact" alt="dhruvapratapsingh" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruvapratapsingh&show_icons=true&locale=en" alt="dhruvapratapsingh" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvapratapsingh&" alt="dhruvapratapsingh" /></p>
 
